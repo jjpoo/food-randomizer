@@ -4,9 +4,9 @@ Food Randomizer is a small Android application built using Jetpack Compose and f
 This app displays a list of food products, allows users to see what's new every time they click a button, and select a product to see its description on the next page.
 
 ## Features
-Observe list of products
-Get a new random list
-See description of each food product
+- Observe list of products.
+- Get a new random list.
+- See description of each food product.
 
 ## Usage
 Upon launching the app, you will see a list of food products in the fandom list.
