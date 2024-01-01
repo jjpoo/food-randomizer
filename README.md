@@ -8,16 +8,22 @@ Observe list of products
 Get a new random list
 See description of each food product
 
-Usage
+## Usage
 Upon launching the app, you will see a list of food products in the fandom list.
 Click on a food product to view its details on the next screen.
 
-Technologies Used
+## Technologies Used
 Jetpack Compose: Modern Android UI toolkit.
 ViewModel: Android Architecture Component for managing UI-related data.
 Kotlin Coroutines: For asynchronous programming.
 Retrofit: HTTP client for making network requests.
 
-##Demo 
-https://github.com/jjpoo/food-randomizer/assets/146124749/6f0c2757-37b3-498b-b3c8-65a453e24e38
+## Screenshots
+<img width="339" alt="Screenshot 2024-01-01 at 16 09 28" src="https://github.com/jjpoo/food-randomizer/assets/146124749/ab9c0263-0ce2-4678-b3f7-e7b8c9f0d959">
+
+
+https://github.com/jjpoo/food-randomizer/assets/146124749/14cfefe4-18d0-4627-be99-df2f68301b51
+
+<img width="339" alt="Screenshot 2024-01-01 at 16 10 12" src="https://github.com/jjpoo/food-randomizer/assets/146124749/a9d8379f-680e-40b8-a1ce-a01f144d5759">
+
 
